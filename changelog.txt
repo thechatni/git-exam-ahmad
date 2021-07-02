@@ -10,8 +10,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - New index.php file.
 - New changelog.txt file.
+- New test.php file.
 
 ### Changed
+- index.php changed to include phpinfo().
+- test.php changed to include 'echo "test"'.
+
 ### Removed
 
 [Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
